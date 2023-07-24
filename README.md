@@ -9,8 +9,8 @@
 
 + 구간 합
     + 구간 합 구하기1[(section_add1.java)](https://github.com/seoyoun8694/java_algorithm/blob/main/algorithm/src/Data_Structure/section_add1.java) _ [BAEKJOON num.11659](https://www.acmicpc.net/problem/11659)
-    + 구간 합 구하기2(section_add2.java) _ BAEKJOON num.11660
-    + 나머지 합 구하기(remain_add.java) _ BAEKJOON num.10986
+    + 구간 합 구하기2[(section_add2.java)](https://github.com/seoyoun8694/java_algorithm/blob/main/algorithm/src/Data_Structure/section_add2.java) _ [BAEKJOON num.11660](https://www.acmicpc.net/problem/11660)
+    + 나머지 합 구하기[(remain_add.java)](https://github.com/seoyoun8694/java_algorithm/blob/main/algorithm/src/Data_Structure/remain_add.java) _ [BAEKJOON num.10986](https://www.acmicpc.net/problem/10986)
 
 + 투 포인터
     + 연속된 자연수의 합 구하기(two_pointer.java) _ BAEKJOON num.2018
