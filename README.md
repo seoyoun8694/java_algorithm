@@ -54,26 +54,45 @@
 
 ### 3. 탐색 _ Quest
 + 깊이 우선 탐색
+    + 연결 요소의 개수 구하기(connecting_elements_num.java) _ BAEKJOON num.11724
+    + 신기한 소수 찾기(curious_decimal) _ BAEKJOON num.2023
+    + 친구 관계 파악하기(friend_relationship) _ BAEKJOON num.13023
 
 + 너비 우선 탐색
+    + DFS와 BFS 프로그램(DFS_BFS.java) _ BAEKJOON num.1206
+    + 미로 탐색하기(maze_quest.java) _ BAEKJOON num.2178
+    + 트리의 지름 구하기(tree_diameter.java) _ BAEKJOON num.1167
 
 + 이진 탐색
+    + 원하는 정수 찾기(want_integer.java) _ BAEKJOON num.1920
+    + 블루레이 만들기(bule_lay.java) _ BAEKJOON num.2343
+    + 배열에서 K번째 수 찾기(K_num.java) _ BAEKJOON num.1300
 
 ***
 
 ### 4. 그리디 _ Greedy
 + 그리디 알고리즘
+    + 동전개수의 최솟값 구하기(coin_num.java) _ BAEKJOON num.11047
+    + 카드 정렬하기(sort_card.java) _ BAEKJOON num.1715
+    + 수를 묶어서 최댓값 만들기(Maxnum_add.java) _ BAEKJOON num.1744
+    + 회의실 배정하기(mettingroom.java) _ BAEKJOON num.1931
+    + 최솟값을 만드는 괄호 배치 찾기(parentheses_placement.java) _ BAEKJOON num.1541
 
 ***
 
 ### 5. 정수론 _ Num_Theory
 + 소수 구하기
+    + 소수 구하기(primes.java) _ BAEKJOON num.1929
+    + 
 
 + 오일러 피
 
+
 + 유클리드 호제법
 
+
 + 확장 휴클리드 호제법
+
 
 ***
 
