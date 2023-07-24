@@ -22,9 +22,15 @@
 
 + 슬라이딩 윈도우
 
-    + DNA 비밀번호(DNA_pasw.java) _ BAEKJOON num.12891
+    + DNA 비밀번호(DNA_pasw.java) _ BAEKJOON num.128914
+    + 최솟값 찾기(little_num.java) _ BAEKJOON num.11003
 
 + 스택과 큐
+
+    + 스택으로 오름차순 수열 만들기(stack_ascending.java) _ BAEKJOON num.1874
+    + 오큰수 구하기(NGE.java) _ BAEKJOON num.17298
+    + 카드 게임(CardGame.java) _ BAEKJOON num.2164
+    + 절댓값 힙 구하기(modulus_hip.java) _ BAEKJOON num.11286
 
 ***
 
