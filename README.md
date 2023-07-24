@@ -13,9 +13,9 @@
     + 나머지 합 구하기[(remain_add.java)](https://github.com/seoyoun8694/java_algorithm/blob/main/algorithm/src/Data_Structure/remain_add.java) _ [BAEKJOON num.10986](https://www.acmicpc.net/problem/10986)
 
 + 투 포인터
-    + 연속된 자연수의 합 구하기(two_pointer.java) _ BAEKJOON num.2018
-    + 주몽의 명령(jumong.java) _ BAEKJOON num.1940
-    + '좋은 수' 구하기(greatnumber.java) _ BAEKJOON num.1253
+    + 연속된 자연수의 합 구하기[(two_pointer.java)](https://github.com/seoyoun8694/java_algorithm/blob/main/algorithm/src/Data_Structure/two_pointer.java) _ [BAEKJOON num.2018](https://www.acmicpc.net/problem/20181)
+    + 주몽의 명령[(jumong.java)](https://github.com/seoyoun8694/java_algorithm/blob/main/algorithm/src/Data_Structure/jumong.javaa) _ [BAEKJOON num.1940](https://www.acmicpc.net/problem/1940)
+    + '좋은 수' 구하기[(greatnumber.java)](https://github.com/seoyoun8694/java_algorithm/blob/main/algorithm/src/Data_Structure/greatnumber.java) _ [BAEKJOON num.1253](https://www.acmicpc.net/problem/1253)
 
 + 슬라이딩 윈도우
     + DNA 비밀번호(DNA_pasw.java) _ BAEKJOON num.128914
