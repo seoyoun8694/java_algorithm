@@ -52,7 +52,7 @@
 
 ***
 
-### 3. 탐색 _ Quest
+### 3. 탐색 _ Search
 + 깊이 우선 탐색
     + 연결 요소의 개수 구하기(connecting_elements_num.java) _ BAEKJOON num.11724
     + 신기한 소수 찾기(curious_decimal) _ BAEKJOON num.2023
