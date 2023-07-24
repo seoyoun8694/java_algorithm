@@ -10,6 +10,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
+// BAEKJOON num.1325
 public class efficient_hakking {
     static int N, M;
     static boolean visited[];
