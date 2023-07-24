@@ -8,7 +8,7 @@ public class friend_relationship {
     static boolean visited[];
     static ArrayList<Integer>[] A;
     static boolean arrive;
-
+    @SuppressWarnings("unchecked")
     public static void main(String[] args) {
         int N;
         int M;

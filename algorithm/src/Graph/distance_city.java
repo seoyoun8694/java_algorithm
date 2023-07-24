@@ -8,6 +8,7 @@ public class distance_city {
     static ArrayList<Integer>[] A;
     static int N, M, K, X;
     static List<Integer> answer;
+    @SuppressWarnings("unchecked")
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         N = sc.nextInt();

@@ -8,6 +8,7 @@ public class tree_diameter {
     static int[] distance;
     // A = Save Graph Data Adjacent Data
     static ArrayList< Edge>[] A;
+    @SuppressWarnings("unchecked")
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();

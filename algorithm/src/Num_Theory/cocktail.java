@@ -10,6 +10,7 @@ public class cocktail {
     static long lcm;
     static boolean visited[];
     static long D[];
+    @SuppressWarnings("unchecked")
     public static void main(String[] args) throws Exception{
         Scanner sc = new Scanner(System.in);
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

@@ -10,6 +10,7 @@ import java.util.Scanner;
 public class DFS_BFS {
     static boolean visited[];
     static ArrayList<Integer>[] A;
+    @SuppressWarnings("unchecked")
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

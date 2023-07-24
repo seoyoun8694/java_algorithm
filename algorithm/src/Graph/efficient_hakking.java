@@ -15,6 +15,7 @@ public class efficient_hakking {
     static boolean visited[];
     static int answer[];
     static ArrayList<Integer> A[];
+    @SuppressWarnings("unchecked")
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         //BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
