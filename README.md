@@ -18,14 +18,14 @@
     + '좋은 수' 구하기[(greatnumber.java)](https://github.com/seoyoun8694/java_algorithm/blob/main/algorithm/src/Data_Structure/greatnumber.java) _ [BAEKJOON num.1253](https://www.acmicpc.net/problem/1253)
 
 + 슬라이딩 윈도우
-    + DNA 비밀번호(DNA_pasw.java) _ BAEKJOON num.128914
-    + 최솟값 찾기(little_num.java) _ BAEKJOON num.11003
+    + DNA 비밀번호[(DNA_pasw.java)](https://github.com/seoyoun8694/java_algorithm/blob/main/algorithm/src/Data_Structure/DNA_pasw.java) _ [BAEKJOON num.12891](https://www.acmicpc.net/problem/12891)
+    + 최솟값 찾기[(little_num.java)](https://github.com/seoyoun8694/java_algorithm/blob/main/algorithm/src/Data_Structure/little_num.java) _ [BAEKJOON num.11003](https://www.acmicpc.net/problem/11003)
 
 + 스택과 큐
-    + 스택으로 오름차순 수열 만들기(stack_ascending.java) _ BAEKJOON num.1874
-    + 오큰수 구하기(NGE.java) _ BAEKJOON num.17298
-    + 카드 게임(CardGame.java) _ BAEKJOON num.2164
-    + 절댓값 힙 구하기(modulus_hip.java) _ BAEKJOON num.11286
+    + 스택으로 오름차순 수열 만들기[(stack_ascending.java)](https://github.com/seoyoun8694/java_algorithm/blob/main/algorithm/src/Data_Structure/stack_ascending.java) _ [BAEKJOON num.1874](https://www.acmicpc.net/problem/1874)
+    + 오큰수 구하기[(NGE.java)](https://github.com/seoyoun8694/java_algorithm/blob/main/algorithm/src/Data_Structure/NGE.java) _ [BAEKJOON num.17298](https://www.acmicpc.net/problem/17298)
+    + 카드 게임[(CardGame.java)](https://github.com/seoyoun8694/java_algorithm/blob/main/algorithm/src/Data_Structure/CardGame.java) _ [BAEKJOON num.2164](https://www.acmicpc.net/problem/2164)
+    + 절댓값 힙 구하기[(modulus_hip.java)](https://github.com/seoyoun8694/java_algorithm/blob/main/algorithm/src/Data_Structure/modulus_hip.java) _ [BAEKJOON num.11286](https://www.acmicpc.net/problem/11286)
 
 ***
 
@@ -83,23 +83,31 @@
 ### 5. 정수론 _ Num_Theory
 + 소수 구하기
     + 소수 구하기(primes.java) _ BAEKJOON num.1929
-    + 
+    + 나머지 합 구하기(remain_add.java) _ BAEKJOON num.1456
+    + 소수&팰린드롬 수 중에서 최솟값 찾기(remain_palindrome) _ BAEKJOON num.1747
+    + 제곱이 아닌 수 찾기(not_square.java) _ BAEKJOON num.1016
 
 + 오일러 피
-
+    + 오일러 피 함수 구현하기(eulers_totient.java) _ BAEKJOON num.11689
 
 + 유클리드 호제법
-
+    + 최소 공배수 찾기(least_common_multiple.java) _ BAEKJOON num.1934
+    + 최대 공약수 찾기(greatest_common_divisor.java) _ BAEKJOON num.1850
+    + 칵테일 만들기(cocktail.java) _ BAEKJOON num.1033
 
 + 확장 휴클리드 호제법
-
+    + Ax+By=C(ax_by_c.java) _ BAEKJOON num.21568
 
 ***
 
 ### 6. 그래프 _ Graph
 + 그래프 표현
+    + 특정 거리의 도시 찾기(distance_city.java) _ BAEKJOON num.18352
+    + 효율적으로 해킹하기(efficient_hakking.java) _ BAEKJOON num.1325
+    + 이분 그래프 판별하기(bipartite_graph.java) _ BAEKJOON num.1707
 
 + 유니온 파인드
+
 
 + 위상 정렬
 
