@@ -47,7 +47,7 @@
     + 수 정렬하기2(Sort_num2.java) _ BAEKJOON num.2751
     + 버블 소트 프로그램2(bubble_sort2.java) _ BAEKJOON num.1517
 
-+ 거수 정렬
++ 기수 정렬
     + 수 정렬하기3(Sort_num3.java) _ BAEKJOON num.10989
 
 ***
