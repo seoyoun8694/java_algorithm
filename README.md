@@ -5,11 +5,24 @@
 ### 1. 자료구조 _ Data_Structure
 + 배열과 리스트
 
+    + ~~숫자 합 구하기 _ BAEKJOON num.11720~~
+    + ~~평균 구하기 _ BAEKJOON num.1546~~
+
 + 구간 합
+
+    + 구간 합 구하기1(section_add1.java) _ BAEKJOON num.11659
+    + 구간 합 구하기2(section_add2.java) _ BAEKJOON num.11660
+    + 나머지 합 구하기(remain_add.java) _ BAEKJOON num.10986
 
 + 투 포인터
 
+    + 연속된 자연수의 합 구하기(two_pointer.java) _ BAEKJOON num.2018
+    + 주몽의 명령(jumong.java) _ BAEKJOON num.1940
+    + '좋은 수' 구하기(greatnumber.java) _ BAEKJOON num.1253
+
 + 슬라이딩 윈도우
+
+    + DNA 비밀번호(DNA_pasw.java) _ BAEKJOON num.12891
 
 + 스택과 큐
 
