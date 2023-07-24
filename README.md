@@ -4,8 +4,8 @@
 
 ### 1. 자료구조 _ Data_Structure
 + 배열과 리스트
-    + ~~숫자 합 구하기 _ BAEKJOON num.11720~~
-    + ~~평균 구하기 _ BAEKJOON num.1546~~
+    + ~~숫자 합 구하기 _ [BAEKJOON num.11720](https://www.acmicpc.net/problem/11720)~~
+    + ~~평균 구하기 _ [BAEKJOON num.1546](https://www.acmicpc.net/problem/1546)~~
 
 + 구간 합
     + 구간 합 구하기1[(section_add1.java)](https://github.com/seoyoun8694/java_algorithm/blob/main/algorithm/src/Data_Structure/section_add1.java) _ [BAEKJOON num.11659](https://www.acmicpc.net/problem/11659)
