@@ -8,7 +8,7 @@
     + ~~평균 구하기 _ BAEKJOON num.1546~~
 
 + 구간 합
-    + 구간 합 구하기1(section_add1.java) _ [BAEKJOON num.11659](https://www.acmicpc.net/problem/11659)
+    + 구간 합 구하기1[(section_add1.java)](https://github.com/seoyoun8694/java_algorithm/blob/main/algorithm/src/Data_Structure/remain_add.java) _ [BAEKJOON num.11659](https://www.acmicpc.net/problem/11659)
     + 구간 합 구하기2(section_add2.java) _ BAEKJOON num.11660
     + 나머지 합 구하기(remain_add.java) _ BAEKJOON num.10986
 
