@@ -1,7 +1,7 @@
 # java_algorithm
 
 ### 1. 자료구조 _ Data_Structure
-+ 1-1) 배열과 리스트
++ 배열과 리스트
 
 **1-2) 구간 합**
 
