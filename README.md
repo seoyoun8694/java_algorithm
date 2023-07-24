@@ -72,39 +72,39 @@
 
 ### 4. 그리디 _ Greedy
 + 그리디 알고리즘
-    + 동전개수의 최솟값 구하기(coin_num.java) _ BAEKJOON num.11047
-    + 카드 정렬하기(sort_card.java) _ BAEKJOON num.1715
-    + 수를 묶어서 최댓값 만들기(Maxnum_add.java) _ BAEKJOON num.1744
-    + 회의실 배정하기(mettingroom.java) _ BAEKJOON num.1931
-    + 최솟값을 만드는 괄호 배치 찾기(parentheses_placement.java) _ BAEKJOON num.1541
+    + 동전개수의 최솟값 구하기(coin_num.java) _ [BAEKJOON num.11047](https://www.acmicpc.net/problem/11047)
+    + 카드 정렬하기(sort_card.java) _ [BAEKJOON num.1715](https://www.acmicpc.net/problem/1715)
+    + 수를 묶어서 최댓값 만들기(Maxnum_add.java) _ [BAEKJOON num.1744](https://www.acmicpc.net/problem/1744)
+    + 회의실 배정하기(mettingroom.java) _ [BAEKJOON num.1931](https://www.acmicpc.net/problem/1931)
+    + 최솟값을 만드는 괄호 배치 찾기(parentheses_placement.java) _ [BAEKJOON num.1541](https://www.acmicpc.net/problem/1541)
 
 ***
 
 ### 5. 정수론 _ Num_Theory
 + 소수 구하기
-    + 소수 구하기(primes.java) _ BAEKJOON num.1929
-    + 나머지 합 구하기(remain_add.java) _ BAEKJOON num.1456
-    + 소수&팰린드롬 수 중에서 최솟값 찾기(remain_palindrome) _ BAEKJOON num.1747
-    + 제곱이 아닌 수 찾기(not_square.java) _ BAEKJOON num.1016
+    + 소수 구하기(primes.java) _ [BAEKJOON num.1929](https://www.acmicpc.net/problem/1929)
+    + 나머지 합 구하기(remain_add.java) _ [BAEKJOON num.1456](https://www.acmicpc.net/problem/1456)
+    + 소수&팰린드롬 수 중에서 최솟값 찾기(remain_palindrome) _ [BAEKJOON num.1747](https://www.acmicpc.net/problem/1747)
+    + 제곱이 아닌 수 찾기(not_square.java) _ [BAEKJOON num.1016](https://www.acmicpc.net/problem/1016)
 
 + 오일러 피
-    + 오일러 피 함수 구현하기(eulers_totient.java) _ BAEKJOON num.11689
+    + 오일러 피 함수 구현하기(eulers_totient.java) _ [BAEKJOON num.11689](https://www.acmicpc.net/problem/11689)
 
 + 유클리드 호제법
-    + 최소 공배수 찾기(least_common_multiple.java) _ BAEKJOON num.1934
-    + 최대 공약수 찾기(greatest_common_divisor.java) _ BAEKJOON num.1850
-    + 칵테일 만들기(cocktail.java) _ BAEKJOON num.1033
+    + 최소 공배수 찾기(least_common_multiple.java) _ [BAEKJOON num.1934](https://www.acmicpc.net/problem/1934)
+    + 최대 공약수 찾기(greatest_common_divisor.java) _ [BAEKJOON num.1850](https://www.acmicpc.net/problem/1850)
+    + 칵테일 만들기(cocktail.java) _ [BAEKJOON num.1033](https://www.acmicpc.net/problem/1033)
 
 + 확장 휴클리드 호제법
-    + Ax+By=C(ax_by_c.java) _ BAEKJOON num.21568
+    + Ax+By=C(ax_by_c.java) _ [BAEKJOON num.21568](https://www.acmicpc.net/problem/21568)
 
 ***
 
 ### 6. 그래프 _ Graph
 + 그래프 표현
-    + 특정 거리의 도시 찾기(distance_city.java) _ BAEKJOON num.18352
-    + 효율적으로 해킹하기(efficient_hakking.java) _ BAEKJOON num.1325
-    + 이분 그래프 판별하기(bipartite_graph.java) _ BAEKJOON num.1707
+    + 특정 거리의 도시 찾기(distance_city.java) _ [BAEKJOON num.18352](https://www.acmicpc.net/problem/18352)
+    + 효율적으로 해킹하기(efficient_hakking.java) _ [BAEKJOON num.1325](https://www.acmicpc.net/problem/1325)
+    + 이분 그래프 판별하기(bipartite_graph.java) _ [BAEKJOON num.1707](https://www.acmicpc.net/problem/1707)
 
 + 유니온 파인드
 
