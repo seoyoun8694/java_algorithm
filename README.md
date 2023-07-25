@@ -105,32 +105,45 @@
     + 특정 거리의 도시 찾기(distance_city.java) _ [BAEKJOON num.18352](https://www.acmicpc.net/problem/18352)
     + 효율적으로 해킹하기(efficient_hakking.java) _ [BAEKJOON num.1325](https://www.acmicpc.net/problem/1325)
     + 이분 그래프 판별하기(bipartite_graph.java) _ [BAEKJOON num.1707](https://www.acmicpc.net/problem/1707)
+    + 물의 양 구하기(water_amount.java) _ [BAEKJOON num.2251](https://www.acmicpc.net/problem/2251)
 
 + 유니온 파인드
-
+    + 집합 표현하기(set_expression.java) _ [BAEKJOON num.1717](https://www.acmicpc.net/problem/1717)
+    + 여행 계획 짜기(travel_plan.java) _ [BAEKJOON num.1976](https://www.acmicpc.net/problem/1976)
+    + 거짓말쟁이가 되긴 싫어(no_liar.java) _ [BAEKJOON num.1043](https://www.acmicpc.net/problem/1043)
 
 + 위상 정렬
 
+
 + 다익스트라
+
 
 + 벨만-포드
 
+
 + 플로이드-워셜
 
+
 + 최소 신장 트리
+
 
 ***
 
 ### 7. 트리 _ Tree
 + 트리
 
+
 + 트라이
+
 
 + 이진 트리
 
+
 + 세그먼트 트리
 
+
 + 최소 공통 조상
+
 
 ***
 
