@@ -34,7 +34,36 @@ public class bipartite_graph {
                 A[End].add(Start);
             }
 
-            
+            for (int i = 1; i <= V; i++) {
+                if (IsEven) {
+                    DFS(i);
+                }
+                else {
+                    break;
+                }
+            }
+
+            check[1] = 0;
+            if (IsEven) {
+                System.out.println("YES");
+            }
+            else {
+                System.out.println("NO");
+            }
+        }
+    }
+
+    public static void DFS(int node) {
+        visited[node] = true;
+        
+        for (int i : A[node]) {
+            if (!visited[i]) {
+                check[i] = (check[node] + 1) % 2;
+                DFS(i);
+            }
+            else if (check[node] == check[i]) {
+                IsEven = false;
+            }
         }
     }
 }
