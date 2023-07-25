@@ -34,7 +34,7 @@ public class bipartite_graph {
                 A[End].add(Start);
             }
 
-            // disldj
+            
         }
     }
 }
