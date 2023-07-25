@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+// BAEKJOON num.1043
 public class no_liar {
   public static int[] parent;
   public static int[] trueP;

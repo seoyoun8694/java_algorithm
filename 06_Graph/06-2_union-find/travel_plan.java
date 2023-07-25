@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// BAEKJOON num.1946
 public class travel_plan {
   public static int[] parent;
   public static void main(String[] args) {
