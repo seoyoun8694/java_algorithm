@@ -1,5 +1,5 @@
 ### 1. 자료구조 _ Data_Structure
-+ 배열과 리스트 _ [개념](https://github.com/seoyoun8694/java_algorithm/blob/main/01_Data_Structure/01-1_array_and_list/README.md)
++ 배열과 리스트
     + ~~숫자 합 구하기 _ [BAEKJOON num.11720](https://www.acmicpc.net/problem/11720)~~
     + ~~평균 구하기 _ [BAEKJOON num.1546](https://www.acmicpc.net/problem/1546)~~
 
