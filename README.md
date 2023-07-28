@@ -113,7 +113,9 @@
     + 거짓말쟁이가 되긴 싫어(no_liar.java) _ [BAEKJOON num.1043](https://www.acmicpc.net/problem/1043)
 
 + 위상 정렬
-
+    + 줄 세우기(line_up.java) _ [BAEKJOON num.2252](https://www.acmicpc.net/problem/2252)
+    + 게임 개발하기(game_develop.java) _ [BAEKJOON num.1516](https://www.acmicpc.net/problem/1516)
+    + 임계 경로 구하기(critical_path.java) _ [BAEKJOON num.1948](https://www.acmicpc.net/problem/1948)
 
 + 다익스트라
 
