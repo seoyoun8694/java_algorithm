@@ -12,10 +12,13 @@ public class primes {
             A[i] = i;
         }
 
+        // for -> N'square
         for (int i =2; i <= Math.sqrt(N); i++) {
+            // Not Primes -> continue
             if(A[i] == 0) {
                 continue;
             }
+            // -- Multiple Clear --
             for (int j = i+i; j <= N; j = j+i) {
                 A[j] = 0;
             }

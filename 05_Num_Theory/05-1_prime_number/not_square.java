@@ -7,6 +7,7 @@ public class not_square {
         long Min = sc.nextLong();
         long Max = sc.nextLong();
 
+        // Declare Check[] -> Difference between max && min
         boolean[] Check = new boolean[(int) (Max - Min + 1)];
 
         for (long i = 2; i*i <= Max; i++) {
