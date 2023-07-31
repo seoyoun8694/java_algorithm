@@ -118,13 +118,18 @@
     + 임계 경로 구하기(critical_path.java) _ [BAEKJOON num.1948](https://www.acmicpc.net/problem/1948)
 
 + 다익스트라
-
+    + 최단 경로 구하기(shortest_path.java) _ [BAEKJOON num.1753](https://www.acmicpc.net/problem/1753)
+    + 최소 비용 구하기(minimum_cost.java) _ [BAEKJOON num.1916](https://www.acmicpc.net/problem/1916)
+    + K번째 최단 경로 찾기(Kth_shortest_path) _ [BAEKJOON num.1854](https://www.acmicpc.net/problem/1854)
 
 + 벨만-포드
-
+    + 타임머신으로 빨리 가기(time_machine.java) _ [BAEKJOON num.11657](https://www.acmicpc.net/problem/11657)
+    + 세일즈맨의 고민(salesman.java) _ [BAEKJOON num.1219](https://www.acmicpc.net/problem/1219)
 
 + 플로이드-워셜
-
+    + 가장 빠른 버스 노선 구하기(faster_bus.java) _ [BAEKJOON num.11404](https://www.acmicpc.net/problem/11404)
+    + 경로 찾기(find_route.java) _ [BAEKJOON num.11403](https://www.acmicpc.net/problem/11403)
+    + 케빈 베이컨의 6단계 법칙(kevin_6step.java) _ [BAEKJOON num.1389](https://www.acmicpc.net/problem/1389)
 
 + 최소 신장 트리
 
