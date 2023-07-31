@@ -16,9 +16,12 @@ public class ax_by_c {
         int c = Integer.parseInt(st.nextToken());
 
         long gcd = gcd(a, b);
-        if (c%gcd != 0) {
+        // c -> not a multiple of the 'greatest common' => print "-1"
+        if (c % gcd != 0) {
             System.out.println(-1);
         }
+        // c -> nultiple of the 'greatest common'
+        // => for remainder(b) is 0 -> recursive function _ eudlidean function
         else {
             int mok = (int) (c / gcd);
             long[] ret = Excute(a, b);
@@ -26,15 +29,21 @@ public class ax_by_c {
         }
     }
 
+    // -- extra euclidean function --
     private static long[] Excute(long a, long b) {
         long[] ret = new long[2];
+
         if (b == 0) {
             ret[0] = 1;
             ret[1] = 0;
             return ret;
         }
+
+        // euclidean function -> recursive function
         long q = a / b;
         long[] v = Excute(b, a%b);
+        
+        // -- !logic -> x = y', y = x'- y' * quotient! --
         ret[0] = v[1];
         ret[1] = v[0] - v[1] * q;
         return ret;

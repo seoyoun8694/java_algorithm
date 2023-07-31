@@ -23,23 +23,30 @@ public class cocktail {
             A[i] = new ArrayList<cNode>();
         }
 
+        // store degee information -> adjacency list array(A)
         for (int i = 0; i < N; i++) {
             int a = sc.nextInt();
             int b = sc.nextInt();
             int p = sc.nextInt();
             int q = sc.nextInt();
+
             A[a].add(new cNode(b, p, q));
             A[b].add(new cNode(a, p, q));
+            // update -> least common _ lcm
             lcm *= (p*q / gcd(p, q));
         }
 
+        // store lcm(least common) -> D[0]
         D[0]  = lcm;
         DFS(0);
 
+        // D(DFS using) -> Computing 'greatest common' divisor of values
         long mgcd = D[0];
         for (int i = 1; i < N; i++) {
             mgcd = gcd(mgcd, D[i]);
         }
+
+        // Divide each value in D array -> greatest common divisor & print
         for (int i = 0; i < N; i++) {
             System.out.print(D[i] / mgcd + " ");
         }
@@ -52,17 +59,22 @@ public class cocktail {
         if (b == 0) {
             return a;
         }
+        // b -> least num / a -> great num
+        // == recursive function
         else {
             return gcd(b, a%b);
         }
     }
 
     public static void DFS(int Node) {
+        // store -> current node visit
         visited[Node] = true;
 
+        // visited nodes(current node) -> unvisited nodes
         for (cNode i : A[Node]) {
             int next = i.getB();
 
+            // next node = current node * ratio(i)
             if (!visited[next]) {
                 D[next] = D[Node] * i.getQ() / i.getB();
                 DFS(next);
@@ -75,6 +87,7 @@ class cNode {
     int b;
     int p;
     int q;
+
     public cNode(int b, int p, int q) {
         super();
         this.b = b;

@@ -10,8 +10,10 @@ public class greatest_common_divisor {
 
         long a = sc.nextLong();
         long b = sc.nextLong();
+        // euclidean function -> gcd
         long result = gcd(a, b);
 
+        // while 'result' _ many output number -> BufferedWriter use
         while (result > 0) {
             bw.write("1");
             result--;
@@ -26,6 +28,8 @@ public class greatest_common_divisor {
         if (b == 0) {
             return a;
         }
+        // b -> least num / a -> great num
+        // == recursive function
         else {
             return gcd(b, a%b);
         }

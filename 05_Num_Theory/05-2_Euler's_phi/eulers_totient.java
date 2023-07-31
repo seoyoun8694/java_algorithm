@@ -10,16 +10,21 @@ public class eulers_totient {
         long result = n;
 
         for (long p = 2; p <= Math.sqrt(n); p++) {
+            // if -> current value is 'Prime'
             if (n%p == 0) {
-                result = result - result/p;
+                result = result - result / p;
+                // remove -> current sub-argument history
                 while (n%p == 0) {
                     n /= p;
                 }
             }
         }
+
+        // n => last Prime
         if (n > 1) {
             result = result - result / n;
         }
+        
         System.out.println(result);
     }
 }

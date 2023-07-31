@@ -9,6 +9,7 @@ public class least_common_multiple {
         for (int i = 0; i <= t; i++) {
             int a = sc.nextInt();
             int b = sc.nextInt();
+            // euclidean function -> gcd
             int result = a*b / gcd(a, b);
             System.out.println(result);
         }
@@ -20,6 +21,8 @@ public class least_common_multiple {
         if (b == 0) {
             return a;
         }
+        // b -> least num / a -> great num
+        // == recursive function
         else {
             return gcd(b, a%b);
         }
