@@ -132,7 +132,9 @@
     + 케빈 베이컨의 6단계 법칙(kevin_6step.java) _ [BAEKJOON num.1389](https://www.acmicpc.net/problem/1389)
 
 + 최소 신장 트리
-
+    + 최소 신장 트리 구하기(min_sapin_tree.java) _ [BAEKJOON num.1197](https://www.acmicpc.net/problem/1197)
+    + 다리 만들기(bridge.java) _ [BAEKJOON num.17472](https://www.acmicpc.net/problem/17472)
+    + 불우이웃돕기(underprivileged.java) _ [BAEKJOON num.1414](https://www.acmicpc.net/problem/1414)
 
 ***
 
