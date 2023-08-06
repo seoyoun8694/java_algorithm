@@ -45,7 +45,7 @@
 
 ![img](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F21029250584C0F2413)
 
-2. **무향 그래프** -> 노드 i에서 노드 j로 가는 간선이 있다는 말은 노드 j에서 노드 i로 가는 간선도 존재한다는 의미 == 인접 행렬이 대각 성분(adj[i][j]에서 i와 j가 같은 원소들)을 기준으로 대칭인 성질을 가짐
+2. **무향 그래프 표현하기** -> 노드 i에서 노드 j로 가는 간선이 있다는 말은 노드 j에서 노드 i로 가는 간선도 존재한다는 의미 == 인접 행렬이 대각 성분(adj[i][j]에서 i와 j가 같은 원소들)을 기준으로 대칭인 성질을 가짐
 
 ![img](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2405384D584C11BC2E)
 
@@ -62,4 +62,15 @@
  ***
 
  ## 3️⃣ 인접 리스트
- **인접 리스트**: 
+ **인접 리스트**: 노드 개수만큼 ArrayLIst를 선언함, 그래프의 연결 관계를 vector의 배열(vector<int> adj[])로 나타내는 방식 ->> vector<int>에 노드의 번호가 직접 저장됨
+
+ -> adj[i] = 노드 i에 연결된 노드들을 원소로 갖는 vector (vector의 배열이기 때문에, adj[i]는 vector가 됨)
+
+ ~~만약 간선에 가중치가 있다면, pair<int,int> adj[]를 통해 구현 가능 -> pair<int,int>의 first에는 노드의 번호, second에는 간선의 가중치를 저장해주면 됨~~
+
+ ***
+
+ 1. **유향 그래프 표현하기**
+
+
+ 2. 
