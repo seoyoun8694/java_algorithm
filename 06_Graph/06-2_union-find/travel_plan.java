@@ -8,6 +8,7 @@ public class travel_plan {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
         int M = sc.nextInt();
+        sc.close();
         int[][] dosi = new int[N + 1][N + 1];
 
         for (int i = 1; i <= N; i++) {
@@ -43,7 +44,6 @@ public class travel_plan {
         }
 
         System.out.println("YES");
-        sc.close();
     }
 
     public static void union(int a, int b) {
